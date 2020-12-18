@@ -1,0 +1,61 @@
+.featured {
+  color: #FFF;
+  background: rgb(0,0,0);
+  background: linear-gradient(59deg, rgba(0,0,0,1) 0%, rgba(37,37,41,1) 38%, rgba(106,106,106,1) 100%);
+  height: 100%;
+}
+
+.creator15 {
+  max-width: 80%;
+  height: auto;
+  vertical-align: middle;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ftext {
+  font-size:2vw;
+  --top: 30px;
+  --right: 500px;
+  padding-right: 15px;
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.ftext p {
+  font-size: 1.75vw;
+
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.fbutton {
+  padding-top: 30px;
+}
+
+.fbutton a {
+  color: #fff;
+  border: 3px solid #fff;
+  background: transparent;
+  box-sizing: border-box;
+  padding: 20px 30px;
+  display: inline-block;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.fbutton a:hover {
+  background-color: #fff;
+  color: #333;
+}
