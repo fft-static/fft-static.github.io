@@ -34,6 +34,11 @@
   width: 50%;
 }
 
+.column2 {
+  float: left;
+  width: 33.33%;
+}
+
 .container:after {
   content: "";
   display: table;
@@ -58,4 +63,36 @@
 .fbutton a:hover {
   background-color: #fff;
   color: #333;
+}
+
+
+.laptop-img {
+  position: relative;
+  background: url("images/laptop.png") no-repeat;
+  width: 100%;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: contain;
+  display: inline-block !important;
+  vertical-align: middle;
+  border: 1px solid;
+}
+
+.t {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #EEE;
+  font-size: 20px;
+}
+
+.sitems {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  position: relative;
+  background-color: #364747;
+  padding-top: 5px;
 }
