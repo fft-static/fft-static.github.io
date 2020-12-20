@@ -113,3 +113,14 @@ footer {
   transform: translate(-50%, -50%);
   user-select: none;
 }
+
+.cns {
+  background: url("images/cns-img.jpg") no-repeat;
+  background-position: center;
+  height: 500px;
+  width: auto;
+}
+
+.cns-text {
+  text-align: center;
+}
