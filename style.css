@@ -121,7 +121,7 @@ footer {
   width: auto;
 }
 
-.cns-text {
-  padding-right: 50px
+.column cns-text {
   text-align: center;
 }
+
