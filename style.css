@@ -119,11 +119,13 @@ footer {
   background-position: center;
   height: 500px;
   width: auto;
-  position: relative;
 }
 
 .cns-text {
   text-align: center;
+  position:relative;
+  right: 100px;
+  top: 0px:
 }
 
 .column-cns-text {
