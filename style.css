@@ -126,5 +126,6 @@ footer {
 }
 
 .column-cns-text {
-  text-align: center;
+  text-align: center; 
+  right: 50px;
 }
