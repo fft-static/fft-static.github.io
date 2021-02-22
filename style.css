@@ -126,16 +126,11 @@ footer {
   padding:25px;
   border:5px red;
   border-radius: 10px;
-  background:#333;
+  background:rgba(0, 0, 0, 0.651);
   text-align:justify;
+  font-size:18px;
   position:relative;
-  left: 300px;
-  top: 50px;
+  left: 350px;
+  top: 15px;
 }
 
-.column-cns-text {
-  text-align: center; 
-  position:relative;
-  right: 100px;
-  top: 0px:
-}
