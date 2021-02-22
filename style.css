@@ -122,10 +122,15 @@ footer {
 }
 
 .cns-text {
+  box-sizing:border-box;
+  padding:25px;
+  border:5px red;
+  border-radius: 10px;
+  background:#333;
   text-align:justify;
   position:relative;
   left: 300px;
-  top: 100px;
+  top: 50px;
 }
 
 .column-cns-text {
