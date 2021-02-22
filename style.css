@@ -119,6 +119,7 @@ footer {
   background-position: center;
   height: 500px;
   width: auto;
+  position: relative;
 }
 
 .cns-text {
@@ -128,5 +129,6 @@ footer {
 .column-cns-text {
   text-align: center; 
   position:relative;
-  left: 100px;
+  right: 100px;
+  top: 0px:
 }
